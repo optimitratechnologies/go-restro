@@ -1,0 +1,35 @@
+{
+    "appName": "Go Kitchen",
+    "description": "Simply manage your restaurant orders",
+    "items": [  
+          {
+            "version": "1.4.8",
+            "shortVersion": 118,
+            "changes": [
+                {
+                    "type": "chore",
+                    "message": "Fix bugs"
+                }
+            ],
+            "date": "2025-02-25",
+            "mandatory": true,
+            "url": "https://github.com/optimitratechnologies/go_kitchen_desktop_app/raw/refs/heads/main/windows/GoRestroInstaller.exe",
+            "platform": "windows"
+        },
+         {
+            "version": "0.0.7",
+            "shortVersion": 7,
+            "changes": [
+                {
+                    "type": "chore",
+                    "message": "Fix bugs"
+                }
+            ],
+            "date": "2025-12-20",
+            "mandatory": true,
+            "url": "https://github.com/optimitratechnologies/go_kitchen_desktop_app/raw/refs/heads/main/macos/GoKitchen.dmg",
+            "platform": "windows"
+        }
+        
+    ]
+}   
