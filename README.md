@@ -39,10 +39,10 @@ Designed for **small to medium-sized restaurants**, Go Restro delivers **fast bi
 ## 📥 Download Go Restro POS (Latest Version)
 
 ### 🔹 Windows (Installer – Recommended)
-https://github.com/optimitratechnologies/go_kitchen_desktop_app/raw/refs/heads/main/windows/GoRestroInstaller.exe
+https://github.com/optimitratechnologies/go-restro/raw/refs/heads/main/windows/GoRestroInstaller.exe
 
 ### 🔹 macOS
-https://github.com/optimitratechnologies/go_kitchen_desktop_app/raw/refs/heads/main/macos/GoKitchen.dmg
+https://github.com/optimitratechnologies/go-restro/raw/refs/heads/main/macos/GoKitchen.dmg
 
 ---
 
@@ -85,7 +85,7 @@ https://github.com/optimitratechnologies
 ## 📞 Support
 
 Email: support@easybillmatic.com  
-GitHub Issues: https://github.com/optimitratechnologies/go_kitchen_desktop_app/issues
+GitHub Issues: https://github.com/optimitratechnologies/go-restro/issues
 
 ---
 
