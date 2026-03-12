@@ -4,7 +4,7 @@
     "items": [  
           {
             "version": "1.5.8",
-            "shortVersion": 139,
+            "shortVersion": 138,
             "changes": [
                 {
                     "type": "chore",
