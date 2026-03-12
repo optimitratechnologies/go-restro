@@ -3,8 +3,8 @@
     "description": "Simply manage your restaurant orders",
     "items": [  
           {
-            "version": "1.5.1",
-            "shortVersion": 125,
+            "version": "1.5.8",
+            "shortVersion": 138,
             "changes": [
                 {
                     "type": "chore",
