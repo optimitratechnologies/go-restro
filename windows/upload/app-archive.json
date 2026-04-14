@@ -3,15 +3,15 @@
     "description": "Simply manage your restaurant orders",
     "items": [  
           {
-            "version": "1.5.197",
-            "shortVersion": 197,
+            "version": "1.5.198",
+            "shortVersion": 198,
             "changes": [
                 {
                     "type": "chore",
                     "message": "Fix bugs"
                 }
             ],
-            "date": "2025-04-13",
+            "date": "2025-04-14",
             "mandatory": true,
             "url": "https://github.com/optimitratechnologies/go-restro/raw/refs/heads/main/windows/GoRestroInstaller.exe",
             "platform": "windows"
