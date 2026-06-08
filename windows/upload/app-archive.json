@@ -3,8 +3,8 @@
     "description": "Simply manage your restaurant orders",
     "items": [  
           {
-            "version": "1.5.226",
-            "shortVersion": 226,
+            "version": "1.5.227",
+            "shortVersion": 227,
             "changes": [
                 {
                     "type": "chore",
@@ -30,7 +30,6 @@
             "url": "https://github.com/optimitratechnologies/go-restro/raw/refs/heads/main/macos/GoKitchen.dmg",
             "platform": "windows"
         }
-
     ]
 
 }   
