@@ -1,0 +1,6 @@
+C:\users\ravis\appdata\roaming\go kitchen\go_kitchen.exe
+C:\users\ravis\appdata\roaming\go restro\go_kitchen.exe
+
+
+Windows Defender Firewall
+allow apps to communicate through windows defender firewall
